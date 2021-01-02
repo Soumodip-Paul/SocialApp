@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781271197094",
+    "project_id": "spsocialapp",
+    "storage_bucket": "spsocialapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781271197094:android:9eb8cd20d3c9c0e2315b67",
+        "android_client_info": {
+          "package_name": "com.sp.SPBrowser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781271197094-8s9j8virm8m1jj9g2pvqht2qbl4k2ilq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdd8_LSqS0Qw00FfnQhOX9owe7ud1NQTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781271197094-8s9j8virm8m1jj9g2pvqht2qbl4k2ilq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
